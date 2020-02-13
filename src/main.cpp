@@ -3,7 +3,7 @@
 
 #include "TlsClient.h"
 
-using namespace observit;
+using namespace stream;
 
 int main() {
     char buff[1024];

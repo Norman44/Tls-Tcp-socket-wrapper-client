@@ -60,4 +60,4 @@ int main() {
 ```
 
 ## Server
-Client code available https://github.com/Norman44/Tls-Tcp-socket-wrapper
+Server code available https://github.com/Norman44/Tls-Tcp-socket-wrapper
